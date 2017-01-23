@@ -1,6 +1,13 @@
 Linkable 5x16-Segment LED Display Module
 ========================================
 
+![Single 5x16 display board](16seg_1.JPG)
+Single display board
+
+![Two boards connected](16seg_2.JPG)
+Two boards connected to form a 10 character display
+
+
 Hardware
 --------
 
