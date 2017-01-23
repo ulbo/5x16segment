@@ -2,7 +2,6 @@
 *.o
 *.ko
 *.obj
-*.elf
 
 # Precompiled Headers
 *.gch
@@ -19,6 +18,7 @@
 *.so
 *.so.*
 *.dylib
+*.d
 
 # Executables
 *.exe
@@ -26,8 +26,14 @@
 *.app
 *.i*86
 *.x86_64
-*.hex
+*.srec
 
 # Debug files
 *.dSYM/
 *.su
+*.lss
+*.map
+
+# Tmp files
+*.bak
+*~

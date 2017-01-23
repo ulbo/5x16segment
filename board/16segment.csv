@@ -1,0 +1,17 @@
+ID;Bezeichner;Gehäuse;Stückzahl;Bezeichnung;Anbieter und Ref.
+1;LED5,LED2,LED4,LED1,LED3;LDS8103-AX_rev;5;LDS-8103AX;
+2;R2,R3,R4,R5,R6,R7,R8,R9,R10,R11,R12,R13,R14,R15,R16,R17,R18;R_0603_HandSoldering;17;180;
+3;C1,C2;C_0805_HandSoldering;2;15pF;
+4;C3,C4,C5,C6,C7;C_0603_HandSoldering;5;100nF;
+5;C8;C_1210_HandSoldering;1;10uF;
+6;IC1;TQFP-44_10x10mm_Pitch0.8mm;1;ATMEGA16-A;
+7;P1;Pin_Header_Straight_1x06;1;CONN_01X06;
+8;P2;Pin_Header_Straight_2x03;1;AVR ISP;
+9;P3;Pin_Header_Angled_1x04;1;DATA_IN;
+10;P4;Pin_Header_Angled_1x04;1;DATA_OUT;
+11;Q1,Q2,Q3,Q4,Q5;SOT-23_Handsoldering;5;BC817-40;
+12;R1;R_0603_HandSoldering;1;10k;
+13;R19,R20,R21,R22,R23;R_0603_HandSoldering;5;470;
+14;X1;Q_49U3HMS;1;16 MHz;
+15;REF**,REF**,REF**,REF**;MountingHole_3.2mm_M3;4;MountingHole_3.2mm_M3;
+16;P5;Pin_Header_Straight_1x02;1;CONN_01X02;

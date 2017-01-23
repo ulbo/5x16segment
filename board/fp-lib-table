@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name LDS8103-AX)(type KiCad)(uri "$(KIPRJMOD)/lds8103.pretty")(options "")(descr ""))
+)
